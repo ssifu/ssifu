@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is Samiul Baree Sifat. I recently graduated from Khulna University of Engineering & Technology. And I am looking for an opportunity in the professional world to further increase my skills and contribute my knowledge so far. 
+
+🔭 Some of my highlighted projects links are:
+
+- 💒 **ComfySLoth**: [comfy-sloth-ssifu.netlify.app](https://comfy-sloth-ssifu.netlify.app/)
+- ⏹ **Stock Data Visualization**: [stock-data-visualiztion.netlify.app](https://stock-data-visualiztion.netlify.app/)
+- 🎟 **Ticket Management System**: [ticket-management-system-samiulsifat.netlify.app](https://ticket-management-system-samiulsifat.netlify.app/)
+
+Other highlighted projects are pinned below.
 <!--
 **ssifu/ssifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Samiul Baree Sifat. I recently graduated from Khulna University of Engineering & Technology. And I am looking for an opportunity in the professional world to further increase my skills and contribute my knowledge so far. 
+My name is Samiul Baree Sifat. I recently graduated from Khulna University of Engineering & Technology. I am looking for an opportunity in the professional world to further increase my skills and contribute my knowledge so far. 
 
-🔭 Some of my highlighted projects links are:
+🔭 Some of my highlighted project links are:
 
 - 💒 **ComfySLoth**: [comfy-sloth-ssifu.netlify.app](https://comfy-sloth-ssifu.netlify.app/)
 - ⏹ **Stock Data Visualization**: [stock-data-visualiztion]([https://stock-data-visualiztion.netlify.app/](https://github.com/ssifu/Stock-Data-Visualization-Frontend))

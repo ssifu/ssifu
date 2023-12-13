@@ -14,7 +14,7 @@ My name is Samiul Baree Sifat. I recently graduated from Khulna University of En
 - Technologies: ![React](https://img.shields.io/badge/-React-blueviolet) ![CSS](https://img.shields.io/badge/-CSS-blue)
   
 ### ⏹ Stock Data Visualization
-- Repository: [Stock Data Visualization](https://github.com/ssifu/Stock-Data-Visualization-Frontend/)
+- Repository: [Stock Data Visualization](https://github.com/ssifu/Stock-Data-Visualization-Backend)
 - Technologies: ![React](https://img.shields.io/badge/-React-blueviolet) ![Chart.js](https://img.shields.io/badge/-Chart.js-orange) ![Django](https://img.shields.io/badge/-Django-green)
 
 ### 💹 Github Profile Stat

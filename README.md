@@ -4,17 +4,13 @@ My name is Samiul Baree Sifat. I recently graduated from Khulna University of En
 
 ## 🔭 Some of my highlighted project links are:
 
+### 🔍 Job Search
+- Repository: [Job Search](https://github.com/ssifu/job-search)
+- Technologies: ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+
 ### 💹 Github Profile Stat
 - Repository: [Github Profile Stat](https://github.com/ssifu/github-user-stat)
-- Technologies: ![React Native](https://img.shields.io/badge/-React_Native-indigo) ![Expo](https://img.shields.io/badge/-Expo-purple) ![Firebase](https://img.shields.io/badge/-Firebase-gold) ![Github API](https://img.shields.io/badge/-Github_API-cyan) 
-
-### 🍔 Meals To Go
-- Repository: [Meals To Go](https://github.com/ssifu/meals-to-go)
-- Technologies: ![React Native](https://img.shields.io/badge/-React_Native-indigo) ![Expo](https://img.shields.io/badge/-Expo-purple) ![Firebase](https://img.shields.io/badge/-Firebase-gold) ![Google Maps](https://img.shields.io/badge/-Google_Maps-teal)
-
-### 🌤 Weather App
-- Repository: [Weather App](https://github.com/ssifu/weather-app)
-- Technologies: ![React Native](https://img.shields.io/badge/-React_Native-indigo) ![Expo](https://img.shields.io/badge/-Expo-purple) ![WeatherAPI](https://img.shields.io/badge/-WeatherAPI-teal)
+- Technologies: ![React Native](https://img.shields.io/badge/-React_Native-indigo) ![Expo](https://img.shields.io/badge/-Expo-purple) ![Firebase](https://img.shields.io/badge/-Firebase-gold) ![Github API](https://img.shields.io/badge/-Github_API-cyan)
 
 ### 💒 [ComfySLoth](https://comfy-sloth-ssifu.netlify.app/)
 - Repository: [ComfySloth](https://github.com/ssifu/ComfySloth)

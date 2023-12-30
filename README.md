@@ -8,6 +8,10 @@ My name is Samiul Baree Sifat. I recently graduated from Khulna University of En
 - Repository: [Job Search](https://github.com/ssifu/job-search)
 - Technologies: ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
+### 🎬 Movies
+- Repository: [Movies](https://github.com/ssifu/movies)
+- Technologies: ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+
 ### 💹 Github Profile Stat
 - Repository: [Github Profile Stat](https://github.com/ssifu/github-user-stat)
 - Technologies: ![React Native](https://img.shields.io/badge/-React_Native-indigo) ![Expo](https://img.shields.io/badge/-Expo-purple) ![Firebase](https://img.shields.io/badge/-Firebase-gold) ![Github API](https://img.shields.io/badge/-Github_API-cyan)
@@ -19,11 +23,6 @@ My name is Samiul Baree Sifat. I recently graduated from Khulna University of En
 ### 🎟 [Ticket Management System](https://ticket-management-system-samiulsifat.netlify.app/)
 - Repository: [Ticket Management System](https://github.com/ssifu/Ticket-Management-System)
 - Technologies: ![React](https://img.shields.io/badge/-React-blueviolet) ![CSS](https://img.shields.io/badge/-CSS-blue)
-  
-### ⏹ Stock Data Visualization
-- Repository: [Stock Data Visualization](https://github.com/ssifu/Stock-Data-Visualization-Backend)
-- Technologies: ![React](https://img.shields.io/badge/-React-blueviolet) ![Chart.js](https://img.shields.io/badge/-Chart.js-orange) ![Django](https://img.shields.io/badge/-Django-green)
-
 
 ### Other highlighted projects are pinned below.
 <!--

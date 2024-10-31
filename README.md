@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Samiul Baree Sifat. I graduated from Khulna University of Engineering & Technology. I am currently working as a System Engineer at bKash Limited where I work with distributed databases. I am currently learning about distributed databases and administration and maintenance of them.
+My name is Samiul Baree Sifat. I graduated from Khulna University of Engineering & Technology. I am currently working as a System Engineer at bKash Limited where I work with distributed databases. I am currently learning about distributed databases and administration and maintenance of them. I like to explore and learn different programming concepts and methodologies in my free time. That's why I enrolled in a program where I can learn and interact with the experienced community to learn more about different backend concepts.
 
 ## 🔭 Some of my project links are:
 
